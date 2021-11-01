@@ -26,7 +26,7 @@ Here are some ideas to get you started:
  <img src="https://github-readme-stats.vercel.app/api?username=BarbaraC12&show_icons=true&theme=prussian">
  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BarbaraC12&layout=compact&show_icons=true&theme=prussian"><br></p>
  <p align="center" width="100%">
-  <pre>🔭 I’m currently working on so_long </pre>
+  <pre>🔭 I’m currently working on philosopher </pre>
   <pre>🌱 I’m currently learning C </pre>
   </p>
 <p align="center" width="100%">
