@@ -28,6 +28,7 @@ Here are some ideas to get you started:
  <p align="center" width="100%">
   <pre>🔭 I’m currently working on philosopher </pre>
   <pre>🌱 I’m currently learning C </pre>
+  <pre>🤔 I’m looking for help with the multi-threaing in a process</pre>
   </p>
 <p align="center" width="100%">
   <img width="15%" src="https://media.giphy.com/media/LHZyixOnHwDDy/giphy.gif"><br>
