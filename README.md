@@ -32,5 +32,5 @@ Here are some ideas to get you started:
   </p>
 <p align="center" width="100%">
   <img width="15%" src="https://media.giphy.com/media/LHZyixOnHwDDy/giphy.gif"><br>
-  <strong>Thank for watching</strong>
+  <strong>Thanks for watching</strong>
 </p>
