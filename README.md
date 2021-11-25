@@ -26,9 +26,8 @@ Here are some ideas to get you started:
  <img src="https://github-readme-stats.vercel.app/api?username=BarbaraC12&show_icons=true&theme=prussian">
  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BarbaraC12&layout=compact&show_icons=true&theme=prussian"><br></p>
  <p align="center" width="100%">
-  <pre>🔭 I’m currently working on philosopher </pre>
+  <pre>🔭 I’m currently working on a minishell and learn how works shell.</pre>
   <pre>🌱 I’m currently learning C </pre>
-  <pre>🤔 I’m looking for help with the multi-threading in a process</pre>
   </p>
 <p align="center" width="100%">
   <img width="15%" src="https://media.giphy.com/media/LHZyixOnHwDDy/giphy.gif"><br>
