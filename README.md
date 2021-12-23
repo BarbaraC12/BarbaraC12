@@ -1,4 +1,4 @@
-## Hi there 👋
+
 
 <!--
 **BarbaraC12/BarbaraC12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -22,9 +22,9 @@ Here are some ideas to get you started:
 -->
 
 <p align="center" width="100%">
- <img width="100%" src="https://badge42.herokuapp.com/api/stats/bcano"><br>
- <img src="https://github-readme-stats.vercel.app/api?username=BarbaraC12&show_icons=true&theme=prussian">
- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BarbaraC12&layout=compact&show_icons=true&theme=prussian"><br></p>
+ <h3 align="center">Hi there 👋</h3>
+ <img width="51%" src="https://badge42.herokuapp.com/api/stats/bcano">
+ <img src="https://github-readme-stats.vercel.app/api?username=BarbaraC12&show_icons=true&theme=prussian"><br></p>
  <p align="center" width="100%">
   <pre>🔭 I’m currently working on a minishell and learn how works shell.</pre>
   <pre>🌱 I’m currently learning C </pre>
