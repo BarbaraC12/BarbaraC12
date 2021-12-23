@@ -23,8 +23,8 @@ Here are some ideas to get you started:
 
 <p align="center" width="100%">
  <h3 align="center">Hi there 👋</h3>
- <img width="51%" src="https://badge42.herokuapp.com/api/stats/bcano">
- <img src="https://github-readme-stats.vercel.app/api?username=BarbaraC12&show_icons=true&theme=prussian"><br></p>
+ <img width="50%" src="https://badge42.herokuapp.com/api/stats/bcano">
+ <img width="50%" src="https://github-readme-stats.vercel.app/api?username=BarbaraC12&show_icons=true&theme=prussian"><br></p>
  <p align="center" width="100%">
   <pre>🔭 I’m currently working on a minishell and learn how works shell.</pre>
   <pre>🌱 I’m currently learning C </pre>
