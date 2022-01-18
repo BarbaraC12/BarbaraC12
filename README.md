@@ -21,15 +21,26 @@ Here are some ideas to get you started:
 [![jaeskim's 42 stats](https://badge42.herokuapp.com/api/stats/bcano)](https://github.com/JaeSeoKim/badge42)
 -->
 
-<p align="center" width="100%">
- <h3 align="center">Hi there 👋</h3>
- <img width="50%" src="https://badge42.herokuapp.com/api/stats/bcano">
- <img width="50%" src="https://github-readme-stats.vercel.app/api?username=BarbaraC12&show_icons=true&theme=prussian"><br></p>
- <p align="center" width="100%">
-  <pre>🔭 I’m currently working on a minishell and learn how works shell.</pre>
-  <pre>🌱 I’m currently learning C </pre>
-  </p>
-<p align="center" width="100%">
+<div align="center">
+ <h3>Hi there 👋</h3>
+ <img src="https://badge42.herokuapp.com/api/stats/bcano">
+ <img src="https://github-readme-stats.vercel.app/api?username=BarbaraC12&show_icons=true&theme=prussian"><br>
+</div>
+<div>
+ <p width="100%">
+  <pre>
+  🔭 I’m currently working on a minishell and learn how works shell.
+  🌱 I’m currently learning C </pre>
+  <pre align="center">
+ /\-/\    /\-/\    /\-/\    /\-/\    /\-/\    /\-/\    /\-/\  
+ (=>Y<=)  (=^Y^=)  (="Y"=)  (=*Y*=)  (="Y"=)  (=^Y^=)  (=>Y<=)  
+ (}o{)    (>o<)    (=o=)   <( o )>   (=o=)    (>o<)    (}o{)  
+  </pre>
+ </p>
+</div>
+<div align="center">
+ <p width="100%">
   <img width="15%" src="https://media.giphy.com/media/LHZyixOnHwDDy/giphy.gif"><br>
   <strong>Thanks for watching</strong>
-</p>
+ </p>
+</div>
