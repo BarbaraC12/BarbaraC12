@@ -12,6 +12,7 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
+- 🔭 🎮 🧠 💬 👩‍💻
 - ⚡ Fun fact: ...
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=BarbaraC12&show_icons=true&theme=material-palenight)](https://github.com/anuraghazra/github-readme-stats)
@@ -29,8 +30,8 @@ Here are some ideas to get you started:
 <div>
  <p width="100%">
   <pre>
-  🔭 I’m currently working on a minishell and learn how works shell.
-  🌱 I’m currently learning C </pre>
+  🎮 I’m currently working on Cub3d AKA Wolfenstein and learn how work raycaster.
+  🌱 I’m currently learning C soon C++/CPP </pre>
   <pre align="center">
  /\-/\    /\-/\    /\-/\    /\-/\    /\-/\    /\-/\    /\-/\  
  (=>Y<=)  (=^Y^=)  (="Y"=)  (=*Y*=)  (="Y"=)  (=^Y^=)  (=>Y<=)  
