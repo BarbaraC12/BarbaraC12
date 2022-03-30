@@ -1,5 +1,3 @@
-
-
 <!--
 **BarbaraC12/BarbaraC12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,24 +12,20 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - 🔭 🎮 🧠 💬 👩‍💻
 - ⚡ Fun fact: ...
-
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=BarbaraC12&show_icons=true&theme=material-palenight)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BarbaraC12&layout=compact&show_icons=true&theme=material-palenight)](https://github.com/anuraghazra/github-readme-stats) 
 -->
-<!-- Intra 42 
-[![jaeskim's 42 stats](https://badge42.herokuapp.com/api/stats/bcano)](https://github.com/JaeSeoKim/badge42)
--->
-
+<!-- Intra 42 - To generate 42 banner : https://badge42.vercel.app -->
 <div align="center">
- <h3>Hi there 👋</h3>
- <img src="https://badge42.herokuapp.com/api/stats/bcano">
+ <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1D3080,100:1D314C&height=175&text=Hi%20there,%20I%27m%20Barbara%20Cano!%20👩‍💻&fontSize=24&fontAlignY=40&fontColor=FFFFFF" alt="header" width="100%" />
+ <img src="https://badge42.vercel.app/api/v2/stats/cl1e0jvxp000909mxrmuzq4x2?cursusId=21" alt="bcano's 42 stats" /> 
  <img src="https://github-readme-stats.vercel.app/api?username=BarbaraC12&show_icons=true&theme=prussian"><br>
 </div>
 <div>
  <p width="100%">
   <pre>
-  🎮 I’m currently working on Cub3d AKA Wolfenstein and learn how work raycaster.
-  🌱 I’m currently learning C soon C++/CPP </pre>
+  🌱 I’m currently learning C and C++/CPP.
+  🎮 I’m currently working on Cub3d AKA Wolfenstein and learn how work raycaster in C.
+  ✨ Recently i begin to work on Container recode vector, stack and map in CPP
+  </pre>
   <pre align="center">
  /\-/\    /\-/\    /\-/\    /\-/\    /\-/\    /\-/\    /\-/\  
  (=>Y<=)  (=^Y^=)  (="Y"=)  (=*Y*=)  (="Y"=)  (=^Y^=)  (=>Y<=)  
