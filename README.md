@@ -22,15 +22,13 @@ Here are some ideas to get you started:
 <div>
  <p width="100%">
   <pre>
-  🌱 I’m currently learning C and C++/CPP.
+  💬 I’m currently learning C++/CPP.
   🎮 I’m currently working on Cub3d AKA Wolfenstein and learn how work raycaster in C.
-  ✨ Recently i begin to work on Container recode vector, stack and map in CPP
-  </pre>
+  🧠 Recently i begin to work on Container recode vector, stack and map in CPP.  </pre>
   <pre align="center">
  /\-/\    /\-/\    /\-/\    /\-/\    /\-/\    /\-/\    /\-/\  
  (=>Y<=)  (=^Y^=)  (="Y"=)  (=*Y*=)  (="Y"=)  (=^Y^=)  (=>Y<=)  
- (}o{)    (>o<)    (=o=)   <( o )>   (=o=)    (>o<)    (}o{)  
-  </pre>
+ (}o{)    (>o<)    (=o=)   <( o )>   (=o=)    (>o<)    (}o{)  </pre>
  </p>
 </div>
 <div align="center">
