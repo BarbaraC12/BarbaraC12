@@ -35,9 +35,9 @@ Here are some ideas to get you started:
  <!-- Statistic github 
  <img src="https://github-readme-stats.vercel.app/api?username=BarbaraC12&show_icons=true&theme=prussian"> 
 -->
- <img width="415" src="https://github-readme-stats-olive-nine.vercel.app/api/top-langs/?username=BarbaraC12&layout=compact&theme=prussian" alt="BarbaraC12 github" />
+ <img width="400" src="https://github-readme-stats-olive-nine.vercel.app/api/top-langs/?username=BarbaraC12&layout=compact&theme=prussian" alt="BarbaraC12 github" />
  <!-- 42 statistic -->
- <img src="https://badge42.vercel.app/api/v2/stats/cl1e0jvxp000909mxrmuzq4x2?cursusId=21" alt="bcano's 42 stats" /> <br>
+ <img width="480" src="https://badge42.vercel.app/api/v2/stats/cl1e0jvxp000909mxrmuzq4x2?cursusId=21" alt="bcano's 42 stats" /> <br>
 </div>
 <div>
  <p width="100%">
