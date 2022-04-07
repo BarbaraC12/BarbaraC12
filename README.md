@@ -34,7 +34,7 @@ Here are some ideas to get you started:
  -->
  <img width="360" src="https://github-readme-stats-olive-nine.vercel.app/api/top-langs/?username=BarbaraC12&layout=compact&theme=prussian" alt="BarbaraC12 github" />
  <!-- 42 statistic -->
- <img width="430" src="https://badge42.vercel.app/api/v2/stats/cl1e0jvxp000909mxrmuzq4x2?cursusId=21" alt="bcano's 42 stats" /> <br>
+ <img width="430" src="https://badge42.vercel.app/api/v2/cl1e0jvxp000909mxrmuzq4x2/stats?cursusId=21&coalitionId=45" alt="bcano's 42 stats" /> <br>
 </div>
 <div>
  <p width="100%">
