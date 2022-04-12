@@ -40,8 +40,8 @@ Here are some ideas to get you started:
  <p width="100%">
   <pre>
   💬 I’m currently learning C++/CPP.
-  🎮 I’m currently working on Cub3d AKA Wolfenstein and learn how work raycaster in C.
-  🧠 Recently i begin to work on Container recode vector, stack and map in CPP.  </pre>
+  🧠 I'm currently working on ft_Container project who make me recode container vector, stack and map from CPP 98.
+  👩‍ Recently I started a freelance business. </pre>
   <pre align="center">
  /\-/\    /\-/\    /\-/\    /\-/\    /\-/\    /\-/\    /\-/\  
  (=>Y<=)  (=^Y^=)  (="Y"=)  (=*Y*=)  (="Y"=)  (=^Y^=)  (=>Y<=)  
