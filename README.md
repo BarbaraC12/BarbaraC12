@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 <!-- Intra 42 - To generate 42 banner : https://badge42.vercel.app -->
 <div align="center">
 <!-- Header hello -->
- <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1D3080,100:1D314C&height=175&text=Hi%20there,%20I%27m%20Barbara%20Cano!%20👩‍💻&fontSize=24&fontAlignY=40&fontColor=FFFFFF" alt="header" width="100%" />
+ <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1D3080,100:1D314C&height=175&text=Hi%20there,%20I%27m%20Barbara%20Cano!%20&fontSize=24&fontAlignY=40&fontColor=FFFFFF" alt="header" width="100%" />
  <div>
   <img alt="Manjaro" src="https://img.shields.io/badge/Manjaro-35BF5C?style=for-the-badge&logo=Manjaro&logoColor=white"/>
   <img alt="ShellScript" src="https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white"/>
