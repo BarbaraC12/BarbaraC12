@@ -39,8 +39,8 @@ Here are some ideas to get you started:
 <div>
  <p width="100%">
   <pre>
-  💬 I’m currently learning C++/CPP.
-  🧠 I'm currently working on ft_Container project who make me recode container vector, stack and map from CPP 98.
+  💬 I’m currently learning React.
+  🧠 I'm currently working on ft_Trancendence project who make recode a online pong game in Typescript, with interface user et tchat.
   👩‍ Recently I started a freelance business. </pre>
   <pre align="center">
  /\-/\    /\-/\    /\-/\    /\-/\    /\-/\    /\-/\    /\-/\  
