@@ -49,7 +49,7 @@
 ### After CC
 | Language use | Project name | Status |
 | :----------: | :----------: | :----: |
-|  <img src="https://user-images.githubusercontent.com/103866722/177873824-ac727cae-29d5-406d-87de-93bb2bf21f02.png" alt="assembly" width="50" height="50"/> | Libasm | ![bcano's 42 Libasm Score](https://badge42.vercel.app/api/v2/cl1e0jvxp000909mxrmuzq4x2/project/3107780) |
+|  <img src="https://user-images.githubusercontent.com/103866722/177873824-ac727cae-29d5-406d-87de-93bb2bf21f02.png" alt="assembly" width="40" height="40"/> | Libasm | ![bcano's 42 Libasm Score](https://badge42.vercel.app/api/v2/cl1e0jvxp000909mxrmuzq4x2/project/3107780) |
 
 
 ### Circle 06
@@ -103,7 +103,7 @@
 |  | Netwhat | ![bcano's 42 netwhat Score](https://badge42.vercel.app/api/v2/cl1e0jvxp000909mxrmuzq4x2/project/1903702) |
 | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> | Get_next_line | ![bcano's 42 get_next_line Score](https://badge42.vercel.app/api/v2/cl1e0jvxp000909mxrmuzq4x2/project/1903682) |
 | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> | Ft_printf | ![bcano's 42 ft_printf Score](https://badge42.vercel.app/api/v2/cl1e0jvxp000909mxrmuzq4x2/project/1905059) |
-| Virutal Box | Born2BeRoot | ![bcano's 42 Born2beroot Score](https://badge42.vercel.app/api/v2/cl1e0jvxp000909mxrmuzq4x2/project/2168584) |
+| <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Virtualbox_logo.png" alt="Virtualbox" width="40" height="40"/> | Born2BeRoot | ![bcano's 42 Born2beroot Score](https://badge42.vercel.app/api/v2/cl1e0jvxp000909mxrmuzq4x2/project/2168584) |
 
 ### Circle 00
 | Language use | Project name | Status |
