@@ -36,7 +36,7 @@
  <p width="100%">
   <pre>
   💬 I am currently learning Assembly and python.
-  🧠 I am currently working on libasm project which consists in recreating some functions of the libC and chained list functions in assembly.
+  🧠 I am currently working on libasm project which consists in recreating some libC and chained list functions in assembly.
   👩‍💻 I am looking for a 6 month internship in embedded system or web fullstack. </pre>
   <pre align="center">
  /\-/\    /\-/\    /\-/\    /\-/\    /\-/\    /\-/\    /\-/\  
