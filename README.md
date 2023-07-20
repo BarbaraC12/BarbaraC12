@@ -1,8 +1,4 @@
 <!--
-**BarbaraC12/BarbaraC12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
@@ -39,9 +35,9 @@ Here are some ideas to get you started:
 <div>
  <p width="100%">
   <pre>
-  💬 I’m currently learning React.
-  🧠 I'm currently working on ft_Trancendence project who make recode a online pong game in Typescript, with interface user et tchat.
-  👩‍ Recently I started a freelance business. </pre>
+  💬 I am currently learning Assembly and python.
+  🧠 I am currently working on libasm project which consists in recreating some functions of the libC and chained list functions in assembly.
+  👩‍💻 I am looking for a 6 month internship in embedded system or web fullstack. </pre>
   <pre align="center">
  /\-/\    /\-/\    /\-/\    /\-/\    /\-/\    /\-/\    /\-/\  
  (=>Y<=)  (=^Y^=)  (="Y"=)  (=*Y*=)  (="Y"=)  (=^Y^=)  (=>Y<=)  
