@@ -11,10 +11,6 @@
 -->
 <!-- Intra 42 - To generate 42 banner : https://badge42.vercel.app -->
 <div align="center">
- <pre align="center">
- /\-/\    /\-/\    /\-/\    /\-/\    /\-/\    /\-/\    /\-/\  
- (=>Y<=)  (=^Y^=)  (="Y"=)  (=*Y*=)  (="Y"=)  (=^Y^=)  (=>Y<=)  
- (}o{)    (>o<)    (=o=)   <( o )>   (=o=)    (>o<)    (}o{)  </pre>
 <!-- Header hello -->
  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1D3080,100:1D314C&height=175&text=Hi%20there,%20I%27m%20Barbara%20Cano!%20&fontSize=24&fontAlignY=40&fontColor=FFFFFF" alt="header" width="100%" />
  <div>
@@ -50,7 +46,6 @@
 | Language use | Project name | Status |
 | :----------: | :----------: | :----: |
 |  <img src="https://user-images.githubusercontent.com/103866722/177873824-ac727cae-29d5-406d-87de-93bb2bf21f02.png" alt="assembly" width="40" height="40"/> | Libasm | ![bcano's 42 Libasm Score](https://badge42.vercel.app/api/v2/cl1e0jvxp000909mxrmuzq4x2/project/3107780) |
-
 
 ### Circle 06
 | Language use | Project name | Status |
@@ -110,13 +105,21 @@
 | :----------: | :----------: | :----: |
 | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> | Libft | ![bcano's 42 Libft Score](https://badge42.vercel.app/api/v2/cl1e0jvxp000909mxrmuzq4x2/project/1900577) |
 </details>
- 
+<details>
+ <summary><h2>Python skills</h2></summary>
+
+ ### Basics - [Numpy lib](https://numpy.org/) - [Matplotlib](https://matplotlib.org/) - [Panda](https://pandas.pydata.org/) - Miniconda - Object Oriented
+
+</details><br>
 </div>
  </p>
 </div>
 <div align="center">
- <p width="100%">
-  <img width="15%" src="https://media.giphy.com/media/LHZyixOnHwDDy/giphy.gif"><br>
+  <pre align="center">
+ /\-/\    /\-/\    /\-/\    /\-/\    /\-/\    /\-/\    /\-/\  
+ (=>Y<=)  (=^Y^=)  (="Y"=)  (=*Y*=)  (="Y"=)  (=^Y^=)  (=>Y<=)  
+ (}o{)    (>o<)    (=o=)   <( o )>   (=o=)    (>o<)    (}o{)  </pre>
+ <p>
   <strong>Thanks for watching</strong>
  </p>
 </div>
