@@ -30,13 +30,16 @@
  -->
  <img width="360" src="https://github-readme-stats-olive-nine.vercel.app/api/top-langs/?username=BarbaraC12&layout=compact&theme=prussian" alt="BarbaraC12 github" />
  <!-- 42 statistic -->
- <img width="430" src="https://badge42.vercel.app/api/v2/cl1e0jvxp000909mxrmuzq4x2/stats?cursusId=21&coalitionId=45" alt="bcano's 42 stats" /> <br>
+ <!-- don't work for now
+ <img width="430" src="https://badge42.vercel.app/api/v2/cl1e0jvxp000909mxrmuzq4x2/stats?cursusId=21&coalitionId=45" alt="bcano's 42 stats" /> 
+--> 
+<br>
 </div>
 <div>
  <p width="100%">
   <pre>
-  💬 I am currently learning Assembly and python.
-  🧠 I am currently working on libasm project which consists in recreating some libC and chained list functions in assembly.
+  💬 I am currently learning python and Linux Architecture.
+  🧠 I am currently working on ready set bool project which consists to introduce me to Boolean Algebra.
   👩‍💻 I am looking for a 6 month internship in data scientist or full-stack web. </pre>
 <div align="center">
 <details>
@@ -45,65 +48,67 @@
 ### After CC
 | Language use | Project name | Status |
 | :----------: | :----------: | :----: |
-|  <img src="https://user-images.githubusercontent.com/103866722/177873824-ac727cae-29d5-406d-87de-93bb2bf21f02.png" alt="assembly" width="40" height="40"/> | Libasm | ![bcano's 42 Libasm Score](https://badge42.vercel.app/api/v2/cl1e0jvxp000909mxrmuzq4x2/project/3107780) |
+|  <img src="https://user-images.githubusercontent.com/103866722/177873824-ac727cae-29d5-406d-87de-93bb2bf21f02.png" alt="assembly" width="40" height="40"/> | Libasm | 42/100 |
+|  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> | Ft_linux | Not yet |
+|  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> | Ready, Set, Bool | Not yet |
 
 ### Circle 06
 | Language use | Project name | Status |
 | :----------: | :----------: | :----: |
-| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>  | Ft_transcendence | ![bcano's 42 ft_transcendence Score](https://badge42.vercel.app/api/v2/cl1e0jvxp000909mxrmuzq4x2/project/3084694) |
-| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> | Exam 06 | ![bcano's 42 Exam Rank 06 Score](https://badge42.vercel.app/api/v2/cl1e0jvxp000909mxrmuzq4x2/project/3084697) |
+| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>  | Ft_transcendence | 94/100 |
+| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> | Exam 06 | 100/100 |
 
 ### Circle 05
 | Language use | Project name | Status |
 | :----------: | :----------: | :----: |
-| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> | Ft_irc | ![bcano's 42 ft_irc Score](https://badge42.vercel.app/api/v2/cl1e0jvxp000909mxrmuzq4x2/project/2613729) |
-| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> | Inception | ![bcano's 42 Inception Score](https://badge42.vercel.app/api/v2/cl1e0jvxp000909mxrmuzq4x2/project/2855484) |
-| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> | Ft_containers | ![bcano's 42 ft_containers Score](https://badge42.vercel.app/api/v2/cl1e0jvxp000909mxrmuzq4x2/project/2812897) |
-| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> | Exam 05 | ![bcano's 42 Exam Rank 05 Score](https://badge42.vercel.app/api/v2/cl1e0jvxp000909mxrmuzq4x2/project/2583091) |
+| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> | Ft_irc | 115/100 |
+| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> | Inception | 100/100 |
+| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> | Ft_containers | 100/100 |
+| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> | Exam 05 | 100/100 |
 
 ### Circle 04
 | Language use | Project name | Status |
 | :----------: | :----------: | :----: |
-| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> | Cpp_00 | ![bcano's 42 CPP Module 00 Score](https://badge42.vercel.app/api/v2/cl1e0jvxp000909mxrmuzq4x2/project/2502709) |
-| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> | Cpp_01 | ![bcano's 42 CPP Module 01 Score](https://badge42.vercel.app/api/v2/cl1e0jvxp000909mxrmuzq4x2/project/2511699) |
-| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> | Cpp_02 | ![bcano's 42 CPP Module 02 Score](https://badge42.vercel.app/api/v2/cl1e0jvxp000909mxrmuzq4x2/project/2513180) |
-| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> | Cpp_03 | ![bcano's 42 CPP Module 03 Score](https://badge42.vercel.app/api/v2/cl1e0jvxp000909mxrmuzq4x2/project/2513747) |
-| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> | Cpp_04 | ![bcano's 42 CPP Module 04 Score](https://badge42.vercel.app/api/v2/cl1e0jvxp000909mxrmuzq4x2/project/2515254) |
-| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> | Cpp_05 | ![bcano's 42 CPP Module 05 Score](https://badge42.vercel.app/api/v2/cl1e0jvxp000909mxrmuzq4x2/project/2517121) |
-| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> | Cpp_06 | ![bcano's 42 CPP Module 06 Score](https://badge42.vercel.app/api/v2/cl1e0jvxp000909mxrmuzq4x2/project/2518579) |
-| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> | Cpp_07 | ![bcano's 42 CPP Module 07 Score](https://badge42.vercel.app/api/v2/cl1e0jvxp000909mxrmuzq4x2/project/2518579) |
-| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> | Cpp_08 | ![bcano's 42 CPP Module 08 Score](https://badge42.vercel.app/api/v2/cl1e0jvxp000909mxrmuzq4x2/project/2522958) |
-| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> | Cub3D | ![bcano's 42 cub3d Score](https://badge42.vercel.app/api/v2/cl1e0jvxp000909mxrmuzq4x2/project/2504845) |
-| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> | Exam 04 | ![bcano's 42 Exam Rank 04 Score](https://badge42.vercel.app/api/v2/cl1e0jvxp000909mxrmuzq4x2/project/2504844) |
+| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> | Cpp_00 | 100/100 |
+| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> | Cpp_01 | 100/100 |
+| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> | Cpp_02 | 80/100 |
+| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> | Cpp_03 | 100/100 |
+| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> | Cpp_04 | 80/100 |
+| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> | Cpp_05 | 100/100 |
+| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> | Cpp_06 | 100/100 |
+| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> | Cpp_07 | 100/100 |
+| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> | Cpp_08 | 100/100 |
+| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> | Cub3D | 113/100 |
+| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> | Exam 04 | 100/100 |
 
 ### Circle 03
 | Language use | Project name | Status |
 | :----------: | :----------: | :----: |
-| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> | Philosophers | ![bcano's 42 Philosophers Score](https://badge42.vercel.app/api/v2/cl1e0jvxp000909mxrmuzq4x2/project/2400028) |
-| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> | Minishell | ![bcano's 42 minishell Score](https://badge42.vercel.app/api/v2/cl1e0jvxp000909mxrmuzq4x2/project/2408937) |
-| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> | Exam 03 | ![bcano's 42 Exam Rank 03 Score](https://badge42.vercel.app/api/v2/cl1e0jvxp000909mxrmuzq4x2/project/2403049)  |
+| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> | Philosophers | 100/100 |
+| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> | Minishell | 125/100 |
+| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> | Exam 03 | 100/100 |
 
 ### Circle 02
 | Language use | Project name | Status |
 | :----------: | :----------: | :----: |
-| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> | Ft_server | ![bcano's 42 ft_server Score](https://badge42.vercel.app/api/v2/cl1e0jvxp000909mxrmuzq4x2/project/2093753) |
-| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> | Push_swap | ![bcano's 42 push_swap Score](https://badge42.vercel.app/api/v2/cl1e0jvxp000909mxrmuzq4x2/project/2177098) |
-| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> | Pipex | ![bcano's 42 push_swap Score](https://badge42.vercel.app/api/v2/cl1e0jvxp000909mxrmuzq4x2/project/2177098) |
-| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> | So_long | ![bcano's 42 so_long Score](https://badge42.vercel.app/api/v2/cl1e0jvxp000909mxrmuzq4x2/project/2373926) |
-| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> | Exam 02 | ![bcano's 42 Exam Rank 02 Score](https://badge42.vercel.app/api/v2/cl1e0jvxp000909mxrmuzq4x2/project/2099829) |
+| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> | Ft_server | 100/100 |
+| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> | Push_swap | 93/100 |
+| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> | Pipex | 100/100 |
+| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> | So_long | 110/100 |
+| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> | Exam 02 | 100/100 |
 
 ### Circle 01
 | Language use | Project name | Status |
 | :----------: | :----------: | :----: |
-|  | Netwhat | ![bcano's 42 netwhat Score](https://badge42.vercel.app/api/v2/cl1e0jvxp000909mxrmuzq4x2/project/1903702) |
-| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> | Get_next_line | ![bcano's 42 get_next_line Score](https://badge42.vercel.app/api/v2/cl1e0jvxp000909mxrmuzq4x2/project/1903682) |
-| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> | Ft_printf | ![bcano's 42 ft_printf Score](https://badge42.vercel.app/api/v2/cl1e0jvxp000909mxrmuzq4x2/project/1905059) |
-| <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Virtualbox_logo.png" alt="Virtualbox" width="40" height="40"/> | Born2BeRoot | ![bcano's 42 Born2beroot Score](https://badge42.vercel.app/api/v2/cl1e0jvxp000909mxrmuzq4x2/project/2168584) |
+| QCM infra | Netwhat | 100/100 |
+| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> | Get_next_line | 115/100 |
+| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> | Ft_printf | 100/100 |
+| <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Virtualbox_logo.png" alt="Virtualbox" width="40" height="40"/> | Born2BeRoot | 96/100 |
 
 ### Circle 00
 | Language use | Project name | Status |
 | :----------: | :----------: | :----: |
-| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> | Libft | ![bcano's 42 Libft Score](https://badge42.vercel.app/api/v2/cl1e0jvxp000909mxrmuzq4x2/project/1900577) |
+| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> | Libft | 115/100 |
 </details>
 <details>
  <summary><h2>Python skills</h2></summary>
